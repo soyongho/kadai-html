@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+header {
+  width: 1000px;
+  background-color: #ffcccc;
+}
+
+#wrapper {
+  display: flex;
+  width: 1000px;
+}
+
+#main {
+  width: 700px;
+  background-color: #ccffcc;
+  padding-bottom: 16px;
+}
+
+#menu {
+  width: 300px;
+  background-color: #ccccff;
+  padding-top: 16px;
+  padding-left: 40px;
+}
+
+h1 {
+  padding-top: 21px;
+  letter-spacing: 1px;
+}
+
+h2 {
+  padding-top: 22px;
+}
+
+h3 {
+  padding-top: 15px;
+}
+
+p {
+  padding-top: 21px;
+}
+
+footer {
+  width: 1000px;
+  background-color: #ffccff;
+}
